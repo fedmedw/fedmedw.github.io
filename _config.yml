@@ -1,0 +1,47 @@
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+workshop:
+  name: 2nd Workshop on Novel Benchmarks and Approaches for Real-World Continual Learning
+  short: CL4REAL
+  host: "ICIAP 2023<br>Udine, Italy<br>September 11-15, 2023"
+  submission_link: https://cmt3.research.microsoft.com/CL4REAL2023
+  dates:
+    submission: June 30, 2023
+    decision: July 30, 2023
+    camera_ready: August 15, 2023
+    workshop: September 11-15, 2023 (TBD)
+  organizers:
+    - name: Simone
+      surname: Palazzo
+      affiliation: University of Catania
+      email: simone.palazzo@unict.it
+      pic: img/simone.jpg
+    - name: Giovanni
+      surname: Bellitto
+      affiliation: University of Catania
+      email: giovanni.bellitto@phd.unict.it
+      pic: img/giovanni.jpg
+    - name: Lorenzo
+      surname: Bonicelli
+      affiliation: University of Modena and Reggio Emilia
+      email: lorenzo.bonicelli@unimore.it
+      pic: img/lorenzo.jpg
+    - name: Vincenzo
+      surname: Lo Monaco
+      affiliation: University of Pisa
+      email: vincenzo.lomonaco@unipi.it
+      pic: img/vincenzo.jpg
+  pc:
+    - name: Simone Calderara
+      affiliation: University of Modena and Reggio Emilia
+    - name: Quentin Jodelet
+      affiliation: Tokyo Institute of Technology
+    - name: Umberto Michieli
+      affiliation: Samsung Research
+    - name: Concetto Spampinato
+      affiliation: University of Catania
+    - name: Konstantinos Tserpes
+      affiliation: Harokopio University of Athens
