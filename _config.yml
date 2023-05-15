@@ -1,13 +1,13 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: FEDMED Workshop
+description: FEDMED Workshop at ICIAP 2023
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
-  name: 2nd Workshop on Novel Benchmarks and Approaches for Real-World Continual Learning
-  short: CL4REAL
+  name: Workshop on Federated Learning in Medical Imaging and Vision
+  short: FEDMED
   host: "ICIAP 2023<br>Udine, Italy<br>September 11-15, 2023"
-  submission_link: https://cmt3.research.microsoft.com/CL4REAL2023
+  submission_link: #
   dates:
     submission: June 30, 2023
     decision: July 30, 2023
@@ -19,29 +19,35 @@ workshop:
       affiliation: University of Catania
       email: simone.palazzo@unict.it
       pic: img/simone.jpg
-    - name: Giovanni
-      surname: Bellitto
+    - name: Federica
+      surname: Proietto Salanitri
       affiliation: University of Catania
-      email: giovanni.bellitto@phd.unict.it
-      pic: img/giovanni.jpg
-    - name: Lorenzo
-      surname: Bonicelli
-      affiliation: University of Modena and Reggio Emilia
-      email: lorenzo.bonicelli@unimore.it
-      pic: img/lorenzo.jpg
-    - name: Vincenzo
-      surname: Lo Monaco
-      affiliation: University of Pisa
-      email: vincenzo.lomonaco@unipi.it
-      pic: img/vincenzo.jpg
+      email: federica.proiettosalanitri@phd.unict.it
+      pic: img/federica.jpg
+    - name: Matteo
+      surname: Pennisi
+      affiliation: University of Catania
+      email: matteo.pennisi@unicampus.it
+      pic: img/matteo.jpg
+    - name: Chen
+      surname: Chen
+      affiliation: University of Central Florida
+      email: chen.chen@crcv.ucf.edu
+      pic: img/pic.jpg
+    - name: Bruno
+      surname: Casella
+      affiliation: University of Turin
+      email: bruno.casella@unito.it
+      pic: img/pic.jpg
+    - name: Gianluca
+      surname: Mittone
+      affiliation: University of Turin
+      email: gianluca.mittone@unito.it
+      pic: img/pic.jpg
   pc:
-    - name: Simone Calderara
-      affiliation: University of Modena and Reggio Emilia
-    - name: Quentin Jodelet
-      affiliation: Tokyo Institute of Technology
-    - name: Umberto Michieli
-      affiliation: Samsung Research
+    - name: Marco Aldinucci
+      affiliation: University of Turin
+    - name: Ulas Bagci
+      affiliation: Northwestern University
     - name: Concetto Spampinato
       affiliation: University of Catania
-    - name: Konstantinos Tserpes
-      affiliation: Harokopio University of Athens

@@ -4,44 +4,49 @@ layout: default
 
 # Call for papers
 
-Current supervised machine learning approaches have shown extraordinary
-capabilities in solving complex tasks, but the resulting models still lack the typical
-human skill of being able to sequentially learn and remember how to perform
-multiple tasks, or to deal with changing data distributions. Continual learning
-approaches aim at tackling these limitations, by devising techniques that allow
-models to retain or refresh the knowledge of previously-learned tasks, thus
-preventing "catastrophic forgetting".
+The use of deep learning-based systems is growing fast in applications in both science
+and real-world scenarios. To further improve the performance of existing models, an
+increasing amount of data is needed, which also needs to be heterogeneous to
+develop better and more generalizable methods. However, huge datasets mean huge
+training in terms of time and computational burden. Furthermore, the collection of
+large-scale, diverse centralized datasets could be practically impossible, especially in
+some fields, e.g., medical domain, in which privacy and data ownership issues come
+into play.
 
-This family of approaches has recently attracted a lot of attention, but experimental
-evaluations have been mostly limited to constrained and artificial scenarios (e.g.,
-presence of hard boundaries between tasks; assumption that classes cannot
-reappear in later tasks, lack of correlation between consecutive tasks, etc.). This can
-undermine the applicability of continual learning to real-world problems: for example,
-robotics would benefit from autonomous agents that are able to adapt to new terrains
-while still being able to navigate on the ones they already know; in medicine, privacy
-concerns may limit the availability of historical data, and domain shifts (e.g., imagery
-acquired by new equipment or disease progress) would require that models be able
-to process both data from the old distribution, now unavailable for training, and the
-new one.
+To overcome these problems, Federated Learning (FL) has been proposed to develop
+better AI models without compromising users’ privacy. Different institutions can train
+more robust models, benefiting from the federation, without sharing raw training data.
+Particularly in medical fields, the heterogeneity of the data is very pronounced, both in
+terms of the number of samples and domain shifts among the various contributing
+institutions, due, for example, to the variability in equipment and image acquisition
+protocols.
 
-To tackle the challenges posed by such settings, common pitfalls and possible
-amendments of the classical scenarios have to be investigated in the next few years.
-Therefore, this workshop aims to promote and attract research on less studied
-aspects of continual learning, from new benchmarks to evaluation protocols, thus
-integrating the current methodological research efforts with a more practical and
-application-oriented perspective.
+This workshop aims at bringing together researchers and practitioners with common
+interest in FL for visual tasks, with a particular focus on medical imaging, to address
+the open questions and challenges of this research area.
 
-The workshop aims to attract novel and original contributions exploring the
-intersection of continual learning and real-world applications. Expected submissions
-should cover, but are not limited to, the following topics:
-* investigations and proposals of metrics to better qualify the performance of
-continual learning approaches in the context of realistic problems;
-* novel continual learning benchmarks that go beyond the classical settings,
-focusing on one or more key aspects that characterize applications;
-* case studies of deployment and integration of continual learning approaches
-to real-world problems;
-* methodological contributions that focus on key aspects of realistic
-applications.
+The workshop aims to attract novel and original contributions exploring federated and
+collaborative learning with its challenges and peculiarities.
+Expected submissions should cover, but are not limited to, the following topics:
+* Novel approaches of Federated, Distributed and Collaborative learning in
+medical imaging applications
+* Topologies: Server-centric, peer-to-peer, cyclic, swarm learning, etc.
+* Decentralized learning
+* Dealing with heterogeneous and unbalanced (non-IID) data distributions
+* Security and privacy of FL systems
+* Personalized FL models for medical imaging applications
+* New Datasets for FL
+* Optimization methods for distributed and collaborative learning
+* Adversarial, inversion, back-dooring, and other forms of attacks on distributed
+and federated learning
+* Model sharing techniques
+* Novel applications of FL techniques: image classification, segmentation,
+reconstruction, regression; multi-task learning, model agnostic learning, meta-
+learning, unsupervised
+* Applications of federated, distributed and collaborative learning techniques in
+medical field.
+* Explainability and interpretability in FL
+* Federated continual learning
 
 ## Workshop Proceedings
 
