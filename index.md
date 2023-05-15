@@ -4,6 +4,8 @@ layout: default
 
 # Call for papers
 
+## Scope of the workshop
+
 The use of deep learning-based systems is growing fast in applications in both science
 and real-world scenarios. To further improve the performance of existing models, an
 increasing amount of data is needed, which also needs to be heterogeneous to
@@ -25,6 +27,8 @@ This workshop aims at bringing together researchers and practitioners with commo
 interest in FL for visual tasks, with a particular focus on medical imaging, to address
 the open questions and challenges of this research area.
 
+## Topics
+
 The workshop aims to attract novel and original contributions exploring federated and
 collaborative learning with its challenges and peculiarities.
 Expected submissions should cover, but are not limited to, the following topics:
@@ -34,7 +38,7 @@ medical imaging applications
 * Decentralized learning
 * Dealing with heterogeneous and unbalanced (non-IID) data distributions
 * Security and privacy of FL systems
-* Personalized FL models for medical imaging applications
+* Personalized FL models
 * New Datasets for FL
 * Optimization methods for distributed and collaborative learning
 * Adversarial, inversion, back-dooring, and other forms of attacks on distributed
@@ -47,6 +51,7 @@ learning, unsupervised
 medical field.
 * Explainability and interpretability in FL
 * Federated continual learning
+* Asynchronous FL
 
 ## Workshop Proceedings
 
