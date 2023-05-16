@@ -38,7 +38,7 @@ workshop:
       surname: Casella
       affiliation: University of Turin
       email: bruno.casella@unito.it
-      pic: img/pic.jpg
+      pic: img/bruno.jpg
     - name: Gianluca
       surname: Mittone
       affiliation: University of Turin
@@ -49,5 +49,9 @@ workshop:
       affiliation: University of Turin
     - name: Ulas Bagci
       affiliation: Northwestern University
+    - name: Roberto Esposito
+      affiliation: University of Turin
+    - name: Mirko Polato
+      affiliation: University of Turin
     - name: Concetto Spampinato
       affiliation: University of Catania
