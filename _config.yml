@@ -28,7 +28,7 @@ workshop:
       surname: Pennisi
       affiliation: University of Catania
       email: matteo.pennisi@unicampus.it
-      pic: img/pic.jpg
+      pic: img/matteo.jpg
     - name: Chen
       surname: Chen
       affiliation: University of Central Florida
@@ -55,3 +55,8 @@ workshop:
       affiliation: University of Turin
     - name: Concetto Spampinato
       affiliation: University of Catania
+  talks:
+    - name: Mirko Polato
+      affiliation: University of Turin
+      pic: img/mirko.jpg
+      title: TBD

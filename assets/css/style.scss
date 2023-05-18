@@ -35,3 +35,34 @@ div.item {
     font-size:14px;
     font-weight: 300;
 }
+
+div.speaker a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /*vertical-align: top;
+    text-align: center;
+    width: 110px;*/
+}
+
+div.speaker img {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+div.speakers .details .name {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    display: block;
+    color:#966;
+}
+div.speaker .details .affiliation {
+    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    display: block;
+    font-size:14px;
+    font-weight: 300;
+}
