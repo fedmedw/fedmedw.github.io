@@ -66,3 +66,29 @@ div.speaker .details .affiliation {
     font-size:14px;
     font-weight: 300;
 }
+
+.page-header {
+    background-image: url(/img/fedmed_bkg.png);
+    background-size: cover;
+    position: relative;
+}
+
+.page-header .overlay {
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%;
+   background-color: rgba(0, 0, 0, 0.3);
+   z-index: 1;
+}
+
+.page-header a, .page-header h1, .page-header h2 {
+   color: white;
+   position: relative;
+   z-index : 3;
+}
+
+.project-tagline {
+   opacity: 1;
+}
