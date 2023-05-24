@@ -6,13 +6,13 @@ theme: jekyll-theme-cayman
 workshop:
   name: Workshop on Federated Learning in Medical Imaging and Vision
   short: FEDMED
-  host: "ICIAP 2023<br>Udine, Italy<br>September 11-15, 2023"
+  host: "ICIAP 2023<br>Udine, Italy<br>September 11, 2023"
   submission_link: #
   dates:
     submission: June 30, 2023
     decision: July 30, 2023
     camera_ready: August 15, 2023
-    workshop: September 11-15, 2023 (TBD)
+    workshop: September 11, 2023 (TBD)
   organizers:
     - name: Simone
       surname: Palazzo
@@ -57,6 +57,8 @@ workshop:
       affiliation: University of Hong Kong
     - name: Concetto Spampinato
       affiliation: University of Catania
+    - name: Peter van Ooijen
+      affiliation: University of Groningen
   talks:
     - name: Mirko Polato
       affiliation: University of Turin
