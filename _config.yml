@@ -7,7 +7,7 @@ workshop:
   name: Workshop on Federated Learning in Medical Imaging and Vision
   short: FEDMED
   host: "ICIAP 2023<br>Udine, Italy<br>September 11, 2023"
-  submission_link: #
+  submission_link: https://cmt3.research.microsoft.com/ICIAPMIH2023
   dates:
     submission: June 30, 2023
     decision: July 30, 2023
