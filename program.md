@@ -10,6 +10,6 @@ layout: default
 {% elsif entry.type == "oral" %}
 * {{ entry.time }}: {{ entry.author }}, *{{ entry.title }}*
 {% elsif entry.type == "keynote" %}
-* {{ entry.time }}: **Keynote**: <!-- *{{ entry.title }}* ({{ entry.author }}, {{ entry.affiliation }}) -->
+* {{ entry.time }}: **Keynote** <!-- *{{ entry.title }}* ({{ entry.author }}, {{ entry.affiliation }}) -->
 {% endif %}
 {% endfor %}
