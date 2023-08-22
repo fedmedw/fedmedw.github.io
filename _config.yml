@@ -68,3 +68,42 @@ workshop:
       affiliation: University of Turin
       pic: img/mirko.jpg
       title: TBD
+  program:
+    - time: "09:00"
+      type: organizer
+      desc: Introduction
+    - time: "09:10"
+      type: oral
+      title: Experience sharing and human-in-the-loop optimization for federated robot navigation recommendation
+      author: Morteza Moradi, Mohammad Moradi, Dario Calogero Guastella
+    - time: "09:30"
+      type: oral
+      title: Federated Learning for Data and Model Heterogeneity in Medical Imaging
+      author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
+    - time: "09:50"
+      type: oral
+      title: "FeDETR: a Federated Approach for Stenosis Detection in Coronary Angiography"
+      author: Raffaele Mineo, Amelia Sorrenti, Federica Proietto Salanitri
+    - time: "10:10"
+      type: oral
+      title: Benchmarking Federated Learning Frameworks for Medical Imaging Tasks
+      author: Samuele Fonio
+    - time: "10:30"
+      type: organizer
+      desc: Coffee break
+    - time: "11:00"
+      type: oral
+      title: "FeDZIO: Decentralized Federated Knowledge Distillation on Edge Devices"
+      author: Luca Palazzo, Matteo Pennisi, Giovanni Bellitto, Isaak Kavasidis
+    - time: "11:20"
+      type: oral
+      title: A Federated Learning Framework for Stenosis Detection
+      author: Mariachiara Di Cosmo, Giovanna Migliorelli, Matteo Francioni, Andi Muçaj, Alessandro Maolo, Alessandro Aprile, Emanuele Frontoni, Maria Chiara Fiorentino, Sara Moccia
+    - time: "11:40"
+      type: keynote
+      author: Mirko Polato
+      affiliation: University of Turin
+      title: TBD
+    - time: "12:20"
+      type: organizer
+      desc: Closing remarks
