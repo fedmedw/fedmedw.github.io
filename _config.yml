@@ -67,7 +67,7 @@ workshop:
     - name: Mirko Polato
       affiliation: University of Turin
       pic: img/mirko.jpg
-      title: TBD
+      title: "Federated Learning in Healthcare: Challenges and Research Directions"
   program:
     - time: "09:00"
       type: organizer
@@ -103,7 +103,7 @@ workshop:
       type: keynote
       author: Mirko Polato
       affiliation: University of Turin
-      title: TBD
+      title: "Federated Learning in Healthcare: Challenges and Research Directions"
     - time: "12:20"
       type: organizer
       desc: Closing remarks
