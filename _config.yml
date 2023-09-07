@@ -74,8 +74,8 @@ workshop:
       desc: Introduction
     - time: "09:10"
       type: oral
-      title: Federated Learning for Data and Model Heterogeneity in Medical Imaging
-      author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
+      title: Experience sharing and human-in-the-loop optimization for federated robot navigation recommendation
+      author: Morteza Moradi, Mohammad Moradi, Dario Calogero Guastella
     - time: "09:30"
       type: oral
       title: "FeDETR: a Federated Approach for Stenosis Detection in Coronary Angiography"
@@ -97,8 +97,8 @@ workshop:
       author: Samuele Fonio
     - time: "11:20"
       type: oral
-      title: Experience sharing and human-in-the-loop optimization for federated robot navigation recommendation
-      author: Morteza Moradi, Mohammad Moradi, Dario Calogero Guastella
+      title: Federated Learning for Data and Model Heterogeneity in Medical Imaging
+      author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
     - time: "11:40"
       type: keynote
       author: Mirko Polato
