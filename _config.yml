@@ -68,6 +68,8 @@ workshop:
       affiliation: University of Turin
       pic: img/mirko.jpg
       title: "Federated Learning in Healthcare: Challenges and Research Directions"
+      file_text: "PDF"
+      file_url: "keynote-fedmed.pdf"
   program:
     - time: "09:00"
       type: organizer
